@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "Hy_oeQodS",
+    "title": "ChubaoFS on KubeCon China 2019",
+    "stitle": "ChubaoFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "Our Speakers gave a talk “ChubaoFS, Dsitributed file system native to large-scale container platform” on Mini Summit at KubeCon China 2019. ",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Our Speakers gave a talk &ldquo;ChubaoFS, Dsitributed file system native to large-scale container platform&rdquo; on Mini Summit at KubeCon China 2019. </span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><a style=\"color: blue; text-decoration: underline;\" href=\"https://www.opensds.io/mini-summit-kubecon-china-2019/\" target=\"_blank\" rel=\"noopener\"><span style=\"font-family: 'Verdana',sans-serif; background: white;\"><span style=\"font-size: 16px;\">https://www.opensds.io/mini-summit-kubecon-china-2019/</span></span></a></p>\n<p><span style=\"font-size: 10.5pt; font-family: 'Calibri',sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; background: white;\"><span style=\"font-size: 16px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img11.360buyimg.com/pop/jfs/t1/75074/14/12579/205764/5d9ea9bcE582b02c3/d78a3985357952da.jpg\" alt=\"\" width=\"900\" height=\"528\" /><br /></span></span></span></p>\n</body>\n</html>",
+    "displayDate": "2019-06-24",
+    "__v": 0,
+    "updateBy": "B1lJxCoyb7",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 17,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-12 10:22:46",
+    "date": "2019-10-09T08:56:00.382Z",
+    "sImg": "https://img11.360buyimg.com/pop/jfs/t1/49522/29/13007/30140/5d9da073E989457df/08dfa71a23b19056.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 16:56:00",
+    "showDate": "3 天前",
+    "showUpdate": "几秒前",
+    "id": "Hy_oeQodS"
+  }
+}

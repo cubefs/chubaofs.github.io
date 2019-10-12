@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "H10gczodH",
+    "title": "ChubaoFS is Listed on Cloud Native Landscape",
+    "stitle": "ChubaoFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "After the first version released, we find there are increasing developers pay close attention to ChubaoFS project.",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-size: 16px;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\">After the first version released, we find there are increasing developers pay close attention to ChubaoFS project. Today we really happy to see ChubaoFS listed on the Cloud Native landscape! </span></span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><a style=\"color: blue; text-decoration: underline;\" href=\"https://landscape.cncf.io/\" target=\"_blank\" rel=\"noopener\"><span style=\"font-family: 'Verdana',sans-serif; background: white;\"><span style=\"font-size: 16px;\">https://landscape.cncf.io/</span></span></a></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\">&nbsp;</p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img11.360buyimg.com/pop/jfs/t1/82420/25/12615/189336/5d9e99e4Efffff977/9fe3d3f8e264d8d0.jpg\" alt=\"\" width=\"800\" height=\"308\" /></p>\n</body>\n</html>",
+    "displayDate": "2019-05-13",
+    "__v": 0,
+    "updateBy": "B1lJxCoyb7",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 22,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-10 17:14:02",
+    "date": "2019-10-09T08:27:33.593Z",
+    "sImg": "https://img11.360buyimg.com/pop/jfs/t1/64895/5/12590/35332/5d9d99efE083fbad0/16758c7c9ae43358.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 16:27:33",
+    "showDate": "1 天前",
+    "showUpdate": "4 分钟前",
+    "id": "H10gczodH"
+  }
+}

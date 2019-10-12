@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "S1br87s_H",
+    "title": "ChubaoFS talk at Intel IPDC summit 2019",
+    "stitle": "ChubaoFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "As the invitation from Intel, our speaker sharing the main architecture design of ChubaoFS and the key features. ",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\">As the invitation from Intel, our speaker sharing the main architecture design of ChubaoFS and the key features.</span> </span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\">&nbsp;</p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\"><img src=\"https://img11.360buyimg.com/pop/jfs/t1/77362/19/12437/132708/5d9ee71aE39bcba25/e5c450d74a9c0c67.jpg\" alt=\"\" width=\"800\" height=\"451\" /></span></span></p>\n<ul style=\"margin-bottom: 0cm; list-style-type: disc;\" type=\"a\">\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">High&nbsp;performance:&nbsp;Optimized&nbsp;for&nbsp;both&nbsp;large&nbsp;and&nbsp;small&nbsp;files.</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Multi-Tenancy:&nbsp;Share the whole storage and resource utilization ratio. </span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">General- Purpose Storage Engine: Support both sequential and random read/write. </span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Highly&nbsp;Scalable:&nbsp;Individual&nbsp;meta&nbsp;and&nbsp;data&nbsp;node&nbsp;clusters.&nbsp;Scales&nbsp;with&nbsp;meta&nbsp;and&nbsp;data&nbsp;partitions&nbsp;increase.</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">POSIX&nbsp;filesystem&nbsp;APIs:&nbsp;Complaint&nbsp;whenever&nbsp;possible,&nbsp;and&nbsp;compromise&nbsp;between&nbsp;semantics&nbsp;and&nbsp;performance.&nbsp;</span></li>\n</ul>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">&nbsp;</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\">Meanwhile ChubaoFS user scenarios were shared and increasing number of people interested in these.&nbsp;</span> </span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\"><img src=\"https://img11.360buyimg.com/pop/jfs/t1/71892/37/12615/112490/5d9ee75eE7d40e6ad/c824f1c052644dc2.jpg\" alt=\"\" width=\"800\" height=\"453\" /></span></span></p>\n<ul style=\"margin-bottom: 0cm; list-style-type: disc;\" type=\"a\">\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Underlying&nbsp;storage&nbsp;for&nbsp;in-memory&nbsp;DB:&nbsp;Preserve&nbsp;snapshots.</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Cloud&nbsp;storage&nbsp;for&nbsp;AI&nbsp;platform&nbsp;Training&nbsp;service:&nbsp;Decouple&nbsp;computing&nbsp;from&nbsp;storage.</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Latency-sensitive&nbsp;services:&nbsp;Used&nbsp;for&nbsp;storing&nbsp;Nginx&nbsp;logs.</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Elasticsearch:&nbsp;Takes&nbsp;care&nbsp;of&nbsp;replications&nbsp;and&nbsp;high&nbsp;availability.</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Service&nbsp;MySQL:&nbsp;Running&nbsp;MySQL&nbsp;history&nbsp;tables&nbsp;on&nbsp;ChubaoFS&nbsp;directly&nbsp;since most&nbsp;of&nbsp;the&nbsp;requests&nbsp;are&nbsp;read.</span></li>\n</ul>\n</body>\n</html>",
+    "displayDate": "2019-09-10",
+    "__v": 0,
+    "updateBy": "BkeDKoDPKz",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 23,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-10 17:31:02",
+    "date": "2019-10-09T09:19:52.765Z",
+    "sImg": "https://img11.360buyimg.com/pop/jfs/t1/63911/9/13560/21877/5d9da57cE8a93c1d8/f1e9b00d8b684400.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 17:19:52",
+    "showDate": "1 天前",
+    "showUpdate": "几秒前",
+    "id": "S1br87s_H"
+  }
+}

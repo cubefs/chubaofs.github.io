@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "B1gD2zjur",
+    "title": "ChubaoFS gave a talk on Hackathon",
+    "stitle": "ChubaoFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "ChubaoFS gave a talk “CFS, native for large-scale container service platform of distributed file system” on the 9th China Open Source Hackathon. ",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">ChubaoFS gave a talk &ldquo;CFS, native for large-scale container service platform of distributed file system&rdquo; on the 9th China Open Source Hackathon. </span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">&nbsp;</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">ChubaoFS (Chubao File System, or CFS for short) is a distributed file system. It provides files system for upper-layer applications. The system POSIX interface has the characteristics: </span></p>\n<ul style=\"margin-bottom: 0cm; list-style-type: disc;\">\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">High availability, </span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">High scalability, </span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Multi-tenancy, </span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Easy operation and maintenance. </span></li>\n</ul>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">&nbsp;</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">The original aim of the design is to provide a persistent storage solution for JD's huge container clusters, while it also can be used as a general cloud storage for the business side. After more than half a year of stable online operation, it services more than 30 business applications. Business scenarios are not limited to backup storage of massive data, also included MySQL underlying storage (history table), Elastic search underlying storage, Hbase backend storage, AI platform model training backend storage, etc. At the same time, the design of CFS has its own unique characteristics, and the paper about the design has been accepted by SIGMOD2019 conference.</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img11.360buyimg.com/pop/jfs/t1/54159/19/13005/367238/5d9e9cbfE2d6ad4f7/c006a8f14a83be78.jpg\" alt=\"\" width=\"800\" height=\"532\" /><br /></span></p>\n</body>\n</html>",
+    "displayDate": "2019-04-20",
+    "__v": 0,
+    "updateBy": "B1lJxCoyb7",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 7,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-10 11:34:49",
+    "date": "2019-10-09T08:37:43.786Z",
+    "sImg": "https://img11.360buyimg.com/pop/jfs/t1/76219/12/12503/30475/5d9d9c13Ea8373329/41feeaa6da9fddb7.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 16:37:43",
+    "showDate": "19 小时前",
+    "showUpdate": "几秒前",
+    "id": "B1gD2zjur"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "Hkj2UmsOS",
+    "title": "ChubaoFS Provide a Storage Solution for Harbor",
+    "stitle": "ChubaoFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "Yesterday, the harbor community invited JD team sharing their experiments on meetup. The speakers introduced how harbor used in JD.com production environment and they used ChubaoFS as the back end storage. ",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Yesterday, the harbor community invited JD team sharing their experiments on meetup. The speakers introduced how harbor used in JD.com production environment and they used ChubaoFS as the back end storage. </span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\">&nbsp;</p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\">At JD.com, harbor not only used in JD mall, they also served the overseas e-commerce platforms like JD Thailand website and JD Indonesia website. Meanwhile, ChubaoFS provides the stable and highly scalable storage. It&rsquo;s obvious that harbor + ChubaoFS build a High Availability architecture for image center.&nbsp;&nbsp;</span> </span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\">&nbsp;</span></span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\">&nbsp;</p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img11.360buyimg.com/pop/jfs/t1/47965/15/13100/264333/5d9e9a1cE288597c9/8d9b5b872bae3dfb.jpg\" alt=\"\" width=\"800\" height=\"532\" /><br /></span></span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img11.360buyimg.com/pop/jfs/t1/56841/26/12877/285369/5d9e9a2dEf0e723dd/419048bc4fa077b9.jpg\" alt=\"\" width=\"800\" height=\"535\" /></span></span></p>\n</body>\n</html>",
+    "displayDate": "2019-09-12",
+    "__v": 0,
+    "updateBy": "B1lJxCoyb7",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 18,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-10 17:06:08",
+    "date": "2019-10-09T09:21:54.854Z",
+    "sImg": "https://img11.360buyimg.com/pop/jfs/t1/80387/24/12395/24739/5d9da66eE543cf2db/6fa54138ef0b531e.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 17:21:54",
+    "showDate": "1 天前",
+    "showUpdate": "几秒前",
+    "id": "Hkj2UmsOS"
+  }
+}

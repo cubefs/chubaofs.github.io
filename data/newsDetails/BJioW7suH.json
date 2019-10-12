@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "BJioW7suH",
+    "title": "CNCF Storage SIG Propose ChubaoFS to Sandbox",
+    "stitle": "ChubaoFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "As we presented the ChubaoFS project on Jun 12th CNCF Storage SIG meeting",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-size: 16px; font-family: verdana, geneva;\"><span style=\"color: #24292e; background: white none repeat scroll 0% 0%;\">As we presented the ChubaoFS project on Jun 12<sup>th</sup> CNCF Storage SIG meeting, today we really excited to get the feedback back from storage SIG, and they are happy to propose this project to Sandbox. Recording for the session is here:&nbsp;</span><a style=\"color: blue; text-decoration: underline;\" href=\"https://www.youtube.com/watch?v=l0-cUTPcpaQ\" target=\"_blank\" rel=\"noopener\">https://www.youtube.com/watch?v=l0-cUTPcpaQ</a></span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img11.360buyimg.com/pop/jfs/t1/51468/27/13180/112358/5d9e9b25Ef2c9d841/a54c28138e0ea413.jpg\" alt=\"\" width=\"800\" height=\"633\" /></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; background: #fcfcfc none repeat scroll 0% 0%; font-size: 12pt; font-family: 宋体;\"><span style=\"font-size: 16px; font-family: verdana, geneva; color: black;\">ChubaoFS consists of a&nbsp;<em>metadata subsystem</em>, a&nbsp;<em>data subsystem</em>, and a&nbsp;<em>resource manager</em>, and can be accessed by different&nbsp;<em>clients</em>&nbsp;(as a set of application processes) hosted on the containers through different file system instances called&nbsp;<em>volumes</em>.</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; background: #fcfcfc none repeat scroll 0% 0%; font-size: 12pt; font-family: 宋体;\"><span style=\"font-size: 16px; font-family: verdana, geneva; color: black;\">The metadata subsystem stores the file metadata, and consists of a set of&nbsp;<em>meta nodes</em>. Each meta node consists of a set of&nbsp;<em>meta partitions</em>.</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; background: #fcfcfc none repeat scroll 0% 0%; font-size: 12pt; font-family: 宋体;\">&nbsp;</p>\n<p style=\"text-align: left; margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\" align=\"left\"><span style=\"font-family: verdana, geneva; font-size: 16px;\"><span style=\"color: #24292e; background: white none repeat scroll 0% 0%;\">The ChubaoFS questionnaire docs: </span><a style=\"color: blue; text-decoration: underline;\" href=\"https://docs.google.com/document/d/15Cnz3AHooqtml0xWhF6Hgei4gpWiRJbwoVCO_pN2z4c/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\">https://docs.google.com/document/d/15Cnz3AHooqtml0xWhF6Hgei4gpWiRJbwoVCO_pN2z4c/edit?usp=sharing</a><span style=\"color: black;\">&nbsp;</span></span></p>\n</body>\n</html>",
+    "displayDate": "2019-08-19",
+    "__v": 0,
+    "updateBy": "B1lJxCoyb7",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 12,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-12 10:21:05",
+    "date": "2019-10-09T09:00:19.322Z",
+    "sImg": "https://img11.360buyimg.com/pop/jfs/t1/84510/6/12533/18770/5d9da170Eac1da84b/17a5458d7534e221.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 17:00:19",
+    "showDate": "3 天前",
+    "showUpdate": "几秒前",
+    "id": "BJioW7suH"
+  }
+}

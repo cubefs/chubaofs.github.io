@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "r1k4ZXjdB",
+    "title": "A Paper based on ChuboFS Published on SIGMOD 2019",
+    "stitle": "ChuboFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "Based on the open source project ChubaoFS design, the paper “CFS: A Distributed File System for Large Scale Container Platforms” has been published on the SIGMOD 2019",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-size: 16px;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\">Based on the open source project ChubaoFS design, the paper &ldquo;CFS: A Distributed File System for Large Scale Container Platforms&rdquo; has been published on the SIGMOD 2019 </span><a style=\"color: blue; text-decoration: underline;\" href=\"https://sigmod2019.org/sigmod_industry_list\" target=\"_blank\" rel=\"noopener\"><span style=\"font-family: 'Verdana',sans-serif; background: white;\">https://sigmod2019.org/sigmod_industry_list</span></a></span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">&nbsp;</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-size: 16px;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\">Paper Link: </span><a style=\"color: blue; text-decoration: underline;\" href=\"https://dl.acm.org/citation.cfm?doid=3299869.3314046\" target=\"_blank\" rel=\"noopener\"><span style=\"font-family: 'Verdana',sans-serif; background: white;\">https://dl.acm.org/citation.cfm?doid=3299869.3314046</span></a></span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">&nbsp;<img src=\"https://img11.360buyimg.com/pop/jfs/t1/55692/35/12985/262846/5d9e9c58E5ee9c8e6/db9cf08e8b696e7a.jpg\" alt=\"\" width=\"1000\" height=\"348\" /></span></p>\n</body>\n</html>",
+    "displayDate": "2019-07-02",
+    "__v": 0,
+    "updateBy": "B1lJxCoyb7",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 10,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-12 10:22:07",
+    "date": "2019-10-09T08:58:15.257Z",
+    "sImg": "https://img11.360buyimg.com/pop/jfs/t1/70353/39/12512/28065/5d9da0e8E3a8201e7/cee97f939b97ab74.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 16:58:15",
+    "showDate": "3 天前",
+    "showUpdate": "几秒前",
+    "id": "r1k4ZXjdB"
+  }
+}

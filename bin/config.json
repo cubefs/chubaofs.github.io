@@ -1,0 +1,10 @@
+{
+  "name":"chubao-web",
+  "script": "./www",
+  "interpreter":"node",
+  "error_file": "/export/Logs/err.log",
+  "out_file" : "/export/Logs/out.log",
+  "merge_logs" : true,
+  "log_date_format" : "YYYY-MM-DD HH:mm:ss",
+  "instance_var": "INSTANCE_ID"
+}

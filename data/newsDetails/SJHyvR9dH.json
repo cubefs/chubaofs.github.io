@@ -1,0 +1,54 @@
+{
+  "state": "success",
+  "news": {
+    "_id": "SJHyvR9dH",
+    "title": "ChubaoFS First Release is Coming",
+    "stitle": "ChubaoFS",
+    "sortPath": "",
+    "keywords": "",
+    "author": {
+      "userName": "panghuiyuan",
+      "name": "庞慧媛"
+    },
+    "discription": "ChubaoFS (ChubaoFS file system, or CFS) is a distributed file system for cloud native applications. It is designed to provide persistent storage solution for container cluster and also be used as general cloud storage for business parties. ",
+    "comments": "<!DOCTYPE html>\n<html>\n<head>\n</head>\n<body>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">ChubaoFS (ChubaoFS file system, or CFS) is a distributed file system for cloud native applications. It is designed to provide persistent storage solution for container cluster and also be used as general cloud storage for business parties. </span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">&nbsp;</span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">The first release version has been published on Github: <a style=\"color: blue; text-decoration: underline;\" href=\"https://github.com/chubaofs/chubaofs/releases/tag/v1.0.0\" target=\"_blank\" rel=\"noopener\">https://github.com/chubaofs/chubaofs/releases/tag/v1.0.0</a></span></p>\n<p style=\"margin: 0cm 0cm 0.0001pt; text-align: justify; font-size: 10.5pt; font-family: 'Calibri', sans-serif;\"><span style=\"font-size: 16px;\"><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\">The key features are included: </span></span></p>\n<ul style=\"list-style-type: disc;\">\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">High performance for both large files and small files</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">General purpose storage engine</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">Multi-tenancy</span></li>\n<li><span style=\"font-family: 'Verdana', sans-serif; color: #24292e; background: white none repeat scroll 0% 0%; font-size: 16px;\">POSIX-compliant APIs</span></li>\n<li><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><span style=\"font-size: 16px;\">High scalability with separated metadata cluster</span></span></li>\n</ul>\n<p><span style=\"font-family: 'Verdana',sans-serif; color: #24292e; background: white;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img11.360buyimg.com/pop/jfs/t1/53198/10/12999/347730/5d9e9ce1E28805204/cd2bff2d7bd92f07.jpg\" alt=\"\" width=\"1000\" height=\"348\" /><br /></span></p>\n</body>\n</html>",
+    "displayDate": "2019-04-02",
+    "__v": 0,
+    "updateBy": "B1lJxCoyb7",
+    "attachments": [],
+    "from": "1",
+    "likeUserIds": [],
+    "likeNum": 0,
+    "commentNum": 0,
+    "clickNum": 23,
+    "isTop": 0,
+    "state": true,
+    "updateDate": "2019-10-12 10:23:17",
+    "date": "2019-10-09T03:41:16.980Z",
+    "sImg": "/opt/src/public/upload/images/img20191009114115.jpg",
+    "tags": [
+      {
+        "_id": "HJ5YZwX14",
+        "name": "新闻动态"
+      }
+    ],
+    "private": false,
+    "topCategorieId": [],
+    "categories": [
+      {
+        "_id": "rkYSTUXyN",
+        "name": "TIG官网"
+      },
+      {
+        "_id": "Byn1CUQkE",
+        "name": "新闻动态"
+      }
+    ],
+    "type": "content",
+    "lang": "en",
+    "createDate": "2019-10-09 11:41:16",
+    "showDate": "3 天前",
+    "showUpdate": "几秒前",
+    "id": "SJHyvR9dH"
+  }
+}
